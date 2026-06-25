@@ -1,1 +1,56 @@
-# HR-Dashboard
+# 📊 HR Analytics Dashboard
+
+An interactive **Power BI** dashboard designed to analyze workforce trends, evaluate employee retention, and uncover the core drivers behind organizational attrition[cite: 1]. Processing a dataset of **1,470 employee records**, this project provides actionable, data-backed insights to optimize HR strategy and improve overall employee retention[cite: 1].
+
+🔹 **Project Overview:** [Report.pdf](Report.pdf)  
+🔹 **Dashboard View:** [Screenshot 2026-06-25 201708.jpg](Screenshot 2026-06-25 201708.jpg)
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Business Intelligence:** Power BI[cite: 1]
+* **Data Modeling & Analytics:** DAX (Data Analysis Expressions), Excel[cite: 1]
+* **Visualization Components:** KPI Cards, Donut Charts, Matrix Heatmaps, Clustered Bar/Column Charts[cite: 1]
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+* **Total Headcount:** 1,470 employees[cite: 1]
+* **Attrition Count:** 237 employees[cite: 1]
+* **Overall Attrition Rate:** 16.12%[cite: 1]
+* **Active Workforce:** 1,233 employees[cite: 1]
+* **Average Workforce Age:** 37 years[cite: 1]
+
+---
+
+## 🔍 Critical Insights & Risk Factors
+
+### 1. The Overtime Impact (Strongest Predictor)
+* Employees logging overtime exhibit a **30.53% attrition rate** compared to just 10.44% for non-overtime workers[cite: 1]. 
+* Overtime demands multiply an employee's likelihood to leave by nearly **3x**[cite: 1].
+
+### 2. High-Risk Departments & Job Roles
+* **Sales Department:** Suffers from the highest attrition rate at **20.63%** (effectively 1 in 5 employees)[cite: 1].
+* **Sales Representatives:** Stand out as the highest-risk role across the entire workforce with an alarming **39.76% attrition rate**[cite: 1].
+* **Laboratory Technicians & HR Personnel:** Show elevated risks, both exceeding a **23% attrition rate**[cite: 1].
+
+### 3. Demographics & Education Fields
+* **Age Factors:** The **Under 25** demographic represents the highest risk of early departure, while the **25–34** bracket contributes the highest raw volume to attrition counts[cite: 1]. Attrition visibly stabilizes after age 35[cite: 1].
+* **Education Background:** Employees from **Human Resources (25.93%)** and **Technical Degree (24.24%)** backgrounds show the highest tendency to exit[cite: 1].
+
+---
+
+## 💡 Strategic Recommendations Engineered
+* **Workload Balancing:** Re-evaluate corporate overtime policies and distribute workloads more equitably to counter the 3x attrition spike[cite: 1].
+* **Sales Department Intervention:** Conduct compensation reviews and implement flexible work policies to stabilize the high-turnover Sales teams[cite: 1].
+* **Early-Career Engagement:** Deploy targeted mentorship and robust onboarding programs for employees under 25 to reduce early-stage churn[cite: 1].
+* **Proactive Retention:** Conduct targeted "stay interviews" for Laboratory Technicians and build internal career pathways leveraging stable, low-attrition managerial roles[cite: 1].
+
+---
+
+## 📂 Repository Structure
+```text
+├── Dataset/                      # Raw workforce records containing 1,470 rows
+├── HR Analytics Dashboard.pbix   # Interactive Power BI dashboard file
+├── Report.pdf                    # Executive summary and deep-dive analytical insights documentation
+└── Screenshot 2026-06-25 201708.jpg # Dashboard preview image
