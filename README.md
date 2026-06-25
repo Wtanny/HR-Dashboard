@@ -1,9 +1,9 @@
 # 📊 HR Analytics Dashboard
 
-An interactive **Power BI** dashboard designed to analyze workforce trends, evaluate employee retention, and uncover the core drivers behind organizational attrition[cite: 1]. Processing a dataset of **1,470 employee records**, this project provides actionable, data-backed insights to optimize HR strategy and improve overall employee retention.
+An interactive **Power BI** dashboard designed to analyze workforce trends, evaluate employee retention, and uncover the core drivers behind organizational attrition. Processing a dataset of **1,470 employee records**, this project provides actionable, data-backed insights to optimize HR strategy and improve overall employee retention.
 
 🔹 **Project Overview:** [Report.pdf](Report.pdf)  
-🔹 **Dashboard View:** [HR Dashboard image.jpg](HR Dashboard image.jpg)
+🔹 **Dashboard View:** [HR Dashboard image.png](HR Dashboard image.png)
 
 ---
 
